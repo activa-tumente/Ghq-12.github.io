@@ -1,0 +1,6 @@
+name = "ghq-12"
+pages_build_output_dir = "./dist"
+
+# No se pueden poner secrets aquí, deben agregarse vía CLI
+# Usa: npx wrangler pages secret put VITE_SUPABASE_ANON_KEY
+
